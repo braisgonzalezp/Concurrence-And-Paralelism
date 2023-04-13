@@ -1,6 +1,6 @@
 #  Concurrence and Paralelism
    
- *Prácticas de Algoritmos*
+ *Prácticas de Concurrencia y Paralelismo*
   
 -Prácticas realzadas por Brais Gonzazález Piñeiro de uso libre, asi que si quereis copiarlas adelante.
 
